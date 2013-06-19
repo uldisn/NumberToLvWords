@@ -1,4 +1,4 @@
-﻿<?
+<?
 
 class NumberToLvWords {
      public static $numb = array('nulle', 'viens', 'divi', 'trīs', 'četri', 'pieci', 'seši', 'septiņi', 'astoņi', 'deviņi', 'desmit');
@@ -56,10 +56,5 @@ class NumberToLvWords {
          }
 
      }
-
-    }
+   
 }
-
-     
-
-?>
